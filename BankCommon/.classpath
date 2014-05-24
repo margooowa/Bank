@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/dom4j-2.0.0-ALPHA-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/hibernate-core-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/javassist-3.10.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/jboss-logging-3.1.0.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Margowa/workspace2/BankProjec111/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
